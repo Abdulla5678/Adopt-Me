@@ -24,9 +24,7 @@ const SearchParams = ()=>{
     }
     if (!pets){
         return (
-            <div>
                 <h1>loading</h1>
-            </div>
         )
     }
     return (
